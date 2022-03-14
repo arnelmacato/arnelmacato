@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnelmacato
-- 👀 I’m interested in android development using kotlin language
-- 🌱 I’m currently learning android studio and kotlin
+- 👀 I’m interested in android development using Flutter framework
+- 🌱 I’m currently on a self-taught on Flutter and Dart
 - 💞️ I’m looking to collaborate on not yet known collaboration
 - 📫 How to reach me via gmail afmacato45g19@gmail.com
 
